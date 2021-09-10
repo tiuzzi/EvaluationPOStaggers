@@ -1,0 +1,28 @@
+:Spoken corpora:
+Random transcripts issued from TCOF corpus, namely a broad collection of recordings of spoken French and their audio transcription.
+Extracted from the TCOF corpus (ATILF, 2020).
+https://tcof.atilf.fr/index.php [Retrieved March 8th, 2021]
+Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 2.0 Générique
+
+:Literature corpora: 
+Random chapters from the 1869’s book "Vingt mille lieues sous les mers" by Jules Verne
+Extracted from the French version of the opensource parallel corpus ParCoGLiJe. (Stosic & Miletic, 2019)
+https://www.ortolang.fr/market/corpora/stosic/ [Retrieved March 8th, 2021]
+Licence Creative Commons - Domaine public ; Pas de droit d'auteur.
+
+:Review corpora:
+Randoml Amazon product reviews.
+Extracted from the French dataset of the Multilingual Amazon Reviews Corpus (Keung et al., 2020).
+[corpus and link not available]
+The Reviews Corpus is an Amazon Service subject to the Amazon.com Conditions of Use.
+
+:Law corpora:
+Small collection of texts issued from the French version of CHEU-lex, a parallel and comparable trilingual corpus of Swiss and EU Legislation. 
+The full corpus is accessible through the Transius website.
+https://transius.unige.ch/en/research/cheu-lex/ [Retrieved July 30th, 2021]
+Licence not available
+
+REFERENCES
+Analyse et traitement informatique de la langue française - UMR 7118 (ATILF) (2020). TCOF : Traitement de Corpus Oraux en Français [Corpus]. ORTOLANG (Open Resources and TOols for LANGuage) - www.ortolang.fr, v2.1, https://hdl.handle.net/11403/tcof/v2.1.
+Keung, P., Lu, Y., Szarvas, G., & Smith, N. A. (2020) The Multilingual Amazon Reviews Corpus. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.
+Stosic, D., & Miletic, A. (2019). ParCoGLiJe [Corpus]. ORTOLANG (Open Resources and TOols for LANGuage) - www.ortolang.fr, v2, https://hdl.handle.net/11403/stosic/v2 
