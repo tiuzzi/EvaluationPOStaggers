@@ -1,5 +1,5 @@
-# assemblee_sar_08
-# Body
+#assemblee_sar_08
+#Body
 bon ben on va commencer l'assemblée générale alors
 donc je déclare l'assemblée générale euh 2008
 ouverte à 18h40
@@ -222,8 +222,8 @@ ah
 une équipe perd en huitième de finale du national de ¤T16¤
 et très récemment euh une équipe du club est a été jusqu'en finale du national B de ¤T7¤
 bravo
-# escalade_mic
-# Body
+#escalade_mic
+#Body
 alors ¤P1¤ je je sais que tu fais de l'escalade
 est-ce que tu pourrais m'en dire plus puisque c'est un sport que je connais pas trop bien et puis ça m'intéresse
 alors plutôt que de sport je parlerais d'activité escalade +
