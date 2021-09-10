@@ -1,7 +1,7 @@
-# Title
+#Title
 Part I Chapter VII
 Une baleine d'espèce inconnue
-# Body
+#Body
 Bien que j'eusse été surpris par cette chute inattendue, je n'en conservai pas moins une impression très nette de mes sensations.
 Je fus d'abord entraîné à une profondeur de vingt pieds environ.
 Je suis bon nageur, sans prétendre égaler Byron et Edgar Poe, qui sont des maîtres, et ce plongeon ne me fit point perdre la tête.
@@ -199,10 +199,10 @@ Heureusement, le mouvement d'immersion s'arrêta.
 Soudain, un bruit de ferrures violemment poussées se produisit à l'intérieur du bateau.
 Une plaque se souleva, un homme parut, jeta un cri bizarre et disparut aussitôt.
 Quelques instants après, huit solides gaillards, le visage voilé, apparaissaient silencieusement, et nous entraînaient dans leur formidable machine.
-# Title
+#Title
 Part II Chapter XX
 Par 47°24' de latitude et de 17°28' de longitude
-# Body
+#Body
 A la suite de cette tempête, nous avions été rejetés dans l'est.
 Tout espoir de s'évader sur les atterrages de New York ou du Saint-Laurent s'évanouissait.
 Le pauvre Ned, désespéré, s'isola comme le capitaine Nemo.
