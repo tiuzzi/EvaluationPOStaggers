@@ -24,5 +24,5 @@ https://transius.unige.ch/en/research/cheu-lex/ [Retrieved July 30th, 2021]
 
 REFERENCES
 Analyse et traitement informatique de la langue française - UMR 7118 (ATILF) (2020). TCOF : Traitement de Corpus Oraux en Français [Corpus]. ORTOLANG (Open Resources and TOols for LANGuage) - www.ortolang.fr, v2.1, https://hdl.handle.net/11403/tcof/v2.1.
-Keung, P., Lu, Y., Szarvas, G., & Smith, N. A. (2020) The Multilingual Amazon Reviews Corpus. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.
+Keung, P., Lu, Y., Szarvas, G., & Smith, N. A. (2020). The Multilingual Amazon Reviews Corpus. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.
 Stosic, D., & Miletic, A. (2019). ParCoGLiJe [Corpus]. ORTOLANG (Open Resources and TOols for LANGuage) - www.ortolang.fr, v2, https://hdl.handle.net/11403/stosic/v2 
