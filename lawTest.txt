@@ -1,10 +1,10 @@
-# Agreement 023
-# Title
+#Agreement023
+#Title
 Echange de lettres du 14 juillet 1986 entre la Suisse et la Commission des CE concernant les adaptations des accords agricoles existants et les concessions réciproques sur certains produits agricoles
-# Title Info
+#TitleInfo
 Approuvé par l’Assemblée fédérale le 8 octobre 1986 Entré en vigueur le 1er janvier 1987
-# Body
-# Article Text
+#Body
+#ArticleText
 Bruxelles, le 14 juillet 1986
 Monsieur,
 J’ai l’honneur d’accuser réception de votre lettre de ce jour libellée comme suit:
@@ -29,10 +29,10 @@ Veuillez agréer, Monsieur, l’assurance de ma très haute considération.
 Au nom du Conseil
 des Communautés européennes:
 David Hannay G. Giola
-# Annex
-# Annex Title
+#Annex
+#AnnexTitle
 Annexe
-# Annex Text
+#AnnexText
 N° du tarif douanier suisse
 Description des marchandises
 Droits en SFR/ 100 kg bruts
@@ -70,21 +70,21 @@ ex
 – – – Olives
 55. —
 expt
-# Annex Title
+#AnnexTitle
 Clause concernant les îles Canaries et Ceuta et Melilla
-# Annex Text
+#AnnexText
 En ce qui concerne les Iles Canaries et Ceuta et Melilla, les deux parties ont convenu ce qui suit:
 a)  La Confédération suisse appliquera aux importations en provenance de ces territoires les concessions tarifaires dérivant tant des échanges de lettres du 21 juillet 1972 et du 5 février 1981 que celles dérivant du présent échange de lettres.
 En ce qui concerne les concessions quantitatives, des quotes-parts pour les îles Canaries et Ceuta et Melilla pourront être établies par la Confédération suisse en consultation avec la Communauté, compte tenu des importations en provenance de ces territoires.
 b)  Dans le cas où des modifications interviennent dans le régime à l’importation de produits agricoles aux îles Canaries et à Ceuta et Melilla pouvant affecter les exportations de la Suisse, la Communauté et la Confédération suisse entreront en consultations en vue d’adopter les mesures appropriées pour remédier à la situation.
 c)  Le comité mixte arrêtera les adaptations aux règles d’origine éventuellement nécessaires pour l’application des points a) et b).
-# Agreement 060
-# Title
+#Agreement060
+#Title
 Accord entre la Confédération suisse et l’Union européenne relatif à la participation de la Confédération suisse à l’opération militaire de gestion de crise menée par l’Union européenne en Bosnie et Herzégovine (opération ALTHEA)
-# Title Info
+#TitleInfo
 Conclu le 22 décembre 2004 Entré en vigueur le 1er février 2005
 (Etat le 21 février 2006)
-# Preamble
+#Preamble
 La Confédération suisse, d’une part, et l’Union européenne (UE), d’autre part, ci-après dénommées les «Parties»,
 considérant que:
 le Conseil de sécurité des Nations Unies a adopté le 22 novembre 2004 la résolution 1575 (2004) sur l’institution de l’EUFOR,
@@ -95,10 +95,10 @@ la procédure de mise sur pied des forces s’est achevée avec succès et que l
 le Comité politique et de sécurité, par sa décision BiH/1/2004, du 21 septembre 2004, a accepté la contribution de la Confédération suisse à l’opération militaire de l’UE en Bosnie et Herzégovine,
 le Comité politique et de sécurité, par sa décision BiH/3/2004, du 29 septembre 2004, a établi le Comité des contributeurs pour l’opération militaire de l’Union européenne en Bosnie et Herzégovine,
 sont convenues de ce qui suit:
-# Body
-# Article Title
+#Body
+#ArticleTitle
 Art. I Participation à l’opération
-# Article Text
+#ArticleText
 1 La Confédération suisse s’associe à l’action commune 2004/570/PESC du 12 juillet 2004 concernant l’opération militaire de l’Union européenne en Bosnie et Herzégovine et à toute autre action commune ou décision prise par le Conseil de l’Union européenne dans le but d’étendre son opération militaire de gestion de crise, en accord avec les stipulations du présent Accord et toutes les dispositions d’exécution nécessaires.
 2 La contribution de la Confédération suisse à l’opération militaire de gestion de crise menée par l’UE ne saurait porter atteinte à l’autonomie décisionnelle de l’Union européenne.
 3 La Confédération suisse garantit que ses troupes et son personnel participant à l’opération militaire de gestion de crise menée par l’UE exécuteront leur mission en conformité avec
@@ -107,9 +107,9 @@ Art. I Participation à l’opération
 –  les mesures de mise en oeuvre.
 4 Les troupes et le personnel attribué à l’opération par la Confédération suisse sont tenus d’accomplir leurs tâches et de se comporter dans l’unique intérêt de l’opération militaire de gestion de crise menée par l’UE.
 5 La Confédération suisse informe le commandant de l’opération de l’UE en temps opportun de toute modification relative à sa participation, y compris du retrait de sa contribution.
-# Article Title
+#ArticleTitle
 Art. II Statut des troupes
-# Article Text
+#ArticleText
 1 Le statut des troupes et du personnel participant à l’opération militaire de gestion de crise menée par l’UE attribué par la Confédération suisse est soumis aux dispositions sur le statut des forces convenues entre l’Union européenne et le pays hôte, pour autant qu’elles existent.
 2 Le statut des troupes et du personnel attribués à des quartiers généraux ou à des structures de commandement situés en dehors de Bosnie et Herzégovine est réglé par des accords conclus entre les quartiers généraux ou les structures de commandement participant à l’opération et la Confédération suisse.
 3 Sans porter atteinte aux dispositions sur le statut des troupes prévues au par. 1 du présent article, la Confédération suisse exerce sa juridiction sur ses troupes et son personnel participant à l’opération militaire de gestion de crise menée par l’UE.
@@ -117,14 +117,14 @@ Art. II Statut des troupes
 La Confédération suisse est responsable de prendre les mesures requises, en particulier dans les domaines juridique et disciplinaire, envers ses troupes et son personnel, conformément à ses lois et à ses règlements.
 5 La Confédération suisse s’engage à faire une déclaration de renonciation aux demandes d’indemnités envers tout Etat participant à l’opération militaire de gestion de crise menée par l’UE et à la faire conjointement à la signature du présent Accord.
 6 L’Union européenne s’engage à garantir que ses Etats membres fassent une déclaration de renonciation aux demandes d’indemnités pour la participation de la Confédération suisse à l’opération militaire de gestion de crise menée par l’UE et à le faire conjointement à la signature du présent Accord.
-# Article Title
+#ArticleTitle
 Art. III Informations classifiées
-# Article Text
+#ArticleText
 1 La Confédération suisse prend les mesures appropriées pour garantir que les informations classifiées de l’UE sont protégées conformément aux dispositions figurant dans la décision du Conseil 2001/264/UE du 19 mars 2001 et aux autres directives émises par les autorités compétentes et le commandant de l’opération de l’UE.
 2 Pour autant que l’UE et la Confédération suisse aient conclu un accord relatif à l’échange d’informations classifiées, les dispositions d’un tel accord sont applicables dans le cadre de l’opération militaire de gestion de crise menée par l’UE.
-# Article Title
+#ArticleTitle
 Art. IV Chaîne de commandement
-# Article Text
+#ArticleText
 1 L’ensemble des troupes et du personnel participant à l’opération militaire de gestion de crise menée par l’UE reste pleinement soumis à l’autorité de ses instances nationales.
 2 Les autorités nationales transfèrent au commandant de l’opération de l’UE la conduite opérationnelle et tactique de leurs troupes et de leur personnel.
 Le commandant de l’opération de l’UE est autorisé à déléguer cette compétence.
@@ -132,26 +132,26 @@ Le commandant de l’opération de l’UE est autorisé à déléguer cette comp
 4 Le commandant de l’opération de l’UE peut, moyennant consultation avec la Confédération suisse, demander à tout moment le retrait de la contribution de la Confédération suisse.
 5 La Confédération suisse nomme un Senior Military Representative, (SMR), en tant que représentant militaire de son contingent national dans l’opération militaire de gestion de crise menée par l’UE.
 Le SMR se concerte avec le commandant de l’opération de l’UE pour tout ce qui concerne l’opération et porte la responsabilité du maintien de la discipline du contingent.
-# Article Title
+#ArticleTitle
 Art. V Aspects financiers
-# Article Text
+#ArticleText
 1 La Confédération suisse prend à sa charge tous les coûts liés à sa participation à l’opération à moins que les coûts ne soient gérés par le financement commun réglé dans les actes juridiques mentionnés à l’art. 1, par. 1 du présent Accord et dans la décision 2004/197/PESC du Conseil du 23 février 2004 créant un mécanisme de gestion du financement des coûts communs des opérations de l’Union européenne ayant des implications militaires ou dans le domaine de la défense.
 2 En cas de décès, de blessure, de perte ou de dommage causés à des personnes physiques ou morales de l’Etat ou des Etats dans lequel (lesquels) l’opération est menée, la Confédération suisse verse des indemnités, lorsque sa responsabilité a été établie, selon les conditions prévues dans l’accord sur le statut des troupes, s’il est disponible, visé à l’art. 2, par. 1 du présent Accord.
-# Article Title
+#ArticleTitle
 Art. VI Dispositions d’application du présent Accord
-# Article Text
+#ArticleText
 Tous les arrangements techniques et administratifs relatifs à l’exécution du présent Accord sont convenus entre le Secrétaire général du Conseil de l’Union européenne/ Haut représentant pour la politique étrangère et de sécurité commune (PESC) et les autorités compétentes de la Confédération suisse.
-# Article Title
+#ArticleTitle
 Art. VII Non-respect des obligations
-# Article Text
+#ArticleText
 En cas de non-respect par l’une des Parties des obligations stipulées dans les articles précédents, l’autre Partie est habilitée à résilier le présent Accord moyennant un préavis d’un mois.
-# Article Title
+#ArticleTitle
 Art. VIII Règlement des différends
-# Article Text
+#ArticleText
 Les différends ressortant de l’interprétation ou de l’application du présent Accord sont réglés entre les Parties par voie diplomatique.
-# Article Title
+#ArticleTitle
 Art. IX Entrée en vigueur
-# Article Text
+#ArticleText
 1 Le présent Accord entre en vigueur le premier jour du premier mois suivant la date à laquelle les Parties se sont notifié mutuellement l’accomplissement des procédures internes nécessaires à cet effet.
 2 Le présent Accord s’applique à titre provisoire à compter de la date de sa signature.
 3 Le présent Accord reste en vigueur pour la durée de la participation de la Confédération suisse à l’opération.
@@ -160,32 +160,32 @@ Pour la Confédération suisse:
 Bernhard Marfurt
 Pour l’Union européenne:
 Pierre Boissieu
-# Annex
-# Annex Title
+#Annex
+#AnnexTitle
 Appendice
 Déclarations
-# Annex Text
+#AnnexText
 (selon art. II par. 5 et 6)
-# Annex Title
+#AnnexTitle
 Déclaration des Etats membres de l’UE:
-# Annex Text
+#AnnexText
 «En exécution de l’action commune 2004/570/PESC du Conseil de l’UE du 12 juillet 2004 concernant l’opération militaire de l’Union européenne en Bosnie et Herzégovine, les Etats membres de l’UE s’attachent, dans les limites de leur législation interne, à renoncer autant que possible à d’éventuelles réclamations contre la Confédération suisse en cas de lésions corporelles ou de décès de personnel de l’UE ou de dommages ou de perte de biens leur appartenant et utilisés dans le cadre de l’opération militaire de gestion de crise menée par l’UE si la lésion corporelle, le décès, le dommage ou la perte a été causé ou causée par:
 –  le personnel de la Confédération suisse en service dans le cadre de l’opération de gestion de crise menée par l’UE, sauf en cas de négligence grave ou d’infraction intentionnelle
 –  l’utilisation de tout biens, quels qu’il soient, appartenant à la Confédération suisse, à condition que ses biens aient été utilisés en liaison avec l’opération et sauf en cas de négligence grave ou de faute intentionnelle des membres du personnel de l’opération de gestion de crise menée par l’UE originaires de la Confédération suisse utilisant ces biens.»
-# Annex Title
+#AnnexTitle
 Déclaration de la Confédération suisse:
-# Annex Text
+#AnnexText
 «En exécution de l’action commune 2004/570/PESC du Conseil de l’UE du 12 juillet 2004 concernant l’opération militaire de l’Union européenne en Bosnie et Herzégovine, la Confédération suisse s’attache, dans les limites de sa législation interne, à renoncer autant que possible à d’éventuelles réclamations contre tout autre Etat participant à l’opération de gestion de crise menée par l’UE en cas de lésions corporelles ou de décès de personnel suisse ou de dommages ou de perte de biens lui appartenant et utilisés dans le cadre de l’opération de gestion de crise menée par l’UE si la lésion corporelle, le décès, le dommage ou la perte a été causé ou causée par:
 –  le personnel en service dans le cadre de l’opération de gestion de crise menée par l’UE, sauf en cas de négligence grave ou d’infraction intentionnelle
 –  l’utilisation de tout biens, quels qu’ils soient, appartenant à des Etats participant à l’opération de gestion de crise menée par l’UE, à condition que ces biens aient été utilisés en liaison avec l’opération et sauf en cas de négligence grave ou de faute intentionnelle de membres du personnel de l’opération de gestion de crise menée par l’UE utilisant ces biens.»
-# Agreement 075
-# Title
+#Agreement075
+#Title
 Echange de lettres des 7 mars 2006/22 novembre 2007 entre la Suisse et l’Office européen de police Europol concernant l’extension de l’Accord du 24 septembre 2004 entre la Confédération suisse et l’Office européen de police aux domaines de la criminalité figurant dans le présent échange de lettres
-# Title Info
+#TitleInfo
 Entré en vigueur le 1er janvier 2008
 (Etat le 1er janvier 2008)
-# Body
-# Article Text
+#Body
+#ArticleText
 Le Chef du Département fédéral de justice et police
 Berne, le 22 novembre 2007
 Monsieur Max-Peter Ratzel
@@ -225,13 +225,13 @@ La coopération inclut également les nouveaux domaines de la criminalité prév
 Elle se limite aux infractions qualifiées de crimes par le droit suisse.
 Je vous prie de croire, Monsieur le Directeur, à l’assurance de ma haute considération.
 Christoph Blocher
-# Agreement 116
-# Title
+#Agreement116
+#Title
 Décision no 1/2012 du Comité des transports terrestres Communauté/Suisse concernant l’octroi d’un rabais sur la redevance sur le trafic des poids lourds liée aux prestations aux véhicules de la classe d’émission EURO VI
-# Title Info
+#TitleInfo
 Adoptée le 16 mai 2012 Entrée en vigueur pour la Suisse le 1er juillet 2012
 (Etat le 1er juillet 2012)
-# Preamble
+#Preamble
 Le Comité,
 vu l’accord entre la Communauté européenne et la Confédération suisse sur le transport de marchandises et de voyageurs par rail et par route, et notamment son art. 51, par. 2,
 considérant ce qui suit:
@@ -239,47 +239,47 @@ considérant ce qui suit:
 (2) Selon l’art. 44, les parties contractantes visent à introduire des mesures écologiques, afin de réduire notamment les gaz d’échappement et les particules émis par les véhicules utilitaires lourds.
 (3) Conformément à l’art. 7, par. 5, chaque partie contractante s’est engagée à ne pas soumettre les véhicules homologués dans l’autre partie contractante à des conditions plus restrictives que celles qui sont en vigueur sur son propre territoire.
 décide:
-# Body
-# Article Title
+#Body
+#ArticleTitle
 Art. 1
-# Article Text
+#ArticleText
 Un rabais de 10 % par rapport au niveau de leur catégorie de redevance est temporairement accordé aux véhicules de la classe d’émission EURO VI.
-# Article Title
+#ArticleTitle
 Art. 2
-# Article Text
+#ArticleText
 Le rabais mentionné à l’art. 1 n’est octroyé qu’aux véhicules qui disposent d’une inscription dans le permis de circulation ou d’une autre attestation équivalente des autorités nationales confirmant que le véhicule correspond à la classe d’émission de la norme EURO VI.
 L’attestation doit se trouver à bord du véhicule à moteur.
-# Article Title
+#ArticleTitle
 Art. 3
-# Article Text
+#ArticleText
 Les autorités compétentes suisses se réservent le droit de contrôler le respect des valeurs limites d’émission de la norme EURO VI sur tout véhicule de cette classe d’émission bénéficiant d’un rabais sur la redevance.
-# Article Title
+#ArticleTitle
 Art. 4
-# Article Text
+#ArticleText
 La Suisse se réserve le droit d’examiner la situation concernant le rabais mentionné dans l’art. 1 à partir de 2014, puis, le cas échéant, de réduire ou supprimer ce rabais.
-# Article Title
+#ArticleTitle
 Art. 5
-# Article Text
+#ArticleText
 La présente décision entre en vigueur le 1er juillet 2012.
 Fait à Berne, le 16 mai 2012.
 Le président:
 Peter Füglistaler
 Le chef de la délégation de l’Union européenne:
 Fotis Karamitsos
-# Law 003
-# Title
+#Law003
+#Title
 Ordonnance réglant l’utilisation du nom «Suisse» pour les montres
-# Title Info
+#TitleInfo
 du 23 décembre 1971
 (Etat le 1er janvier 2019)
-# Preamble
+#Preamble
 Le Conseil fédéral suisse,
 vu l’art. 50, al. 2, de la loi du 28 août 1992 sur la protection des marques (LPM),
 arrête:
-# Body
-# Article Title
+#Body
+#ArticleTitle
 Art. 1 Définition de la montre
-# Article Text
+#ArticleText
 1 Sont considérés comme montres:
 a.   les appareils à mesurer le temps destinés à être portés au poignet;
 b.   les appareils dont la fonction principale sert à mesurer le temps et:
@@ -287,9 +287,9 @@ b.   les appareils dont la fonction principale sert à mesurer le temps et:
 2.   dont l’épaisseur, mesurée avec la platine et les ponts, ne dépasse pas 14 mm.
 2 Seules les dimensions techniquement nécessaires sont prises en considération pour déterminer la largeur, la longueur, le diamètre et l’épaisseur.
 3 L’élément permettant de porter la montre n’entre pas dans la définition de la montre donnée à l’al. 1.
-# Article Title
+#ArticleTitle
 Art. 1a Définition de la montre suisse
-# Article Text
+#ArticleText
 Est considérée comme montre suisse la montre:
 a.   dont le développement technique est effectué en Suisse:
 1.   pour les montres exclusivement mécaniques: au moins la construction mécanique et le prototypage de la montre dans son ensemble,
@@ -298,9 +298,9 @@ abis.   dont le mouvement est suisse;
 b.   dont le mouvement est emboîté en Suisse;
 c.   dont le fabricant effectue le contrôle final en Suisse, et
 d.   dont 60 % au minimum du coût de revient sont générés en Suisse.
-# Article Title
+#ArticleTitle
 Art. 2 Définition du mouvement suisse
-# Article Text
+#ArticleText
 1 Est considéré comme mouvement suisse le mouvement:
 a.   dont le développement technique est effectué en Suisse:
 1.   pour les mouvements exclusivement mécaniques: au moins la construction mécanique et le prototypage du mouvement dans son ensemble,
@@ -317,15 +317,15 @@ abis.   le coût du cadran est pris en considération, si le cadran:
 b.   le coût de l’assemblage peut être pris en considération lorsqu’une procédure de certification prévue par un traité international garantit que, par suite d’une étroite coopération industrielle, il y a équivalence de qualité entre les pièces constitutives étrangères et les pièces constitutives suisses;
 c.   le coût de l’assemblage pris en considération, le cas échéant, ne peut pas dépasser la valeur totale des pièces constitutives étrangères reconnues comme équivalentes qui sont incorporées dans le mouvement suisse concerné.
 3 Les dispositions de l’Accord du 20 juillet 1972 complémentaire à l’Accord concernant les produits horlogers entre la Confédération suisse et la Communauté économique européenne ainsi que les Etats membres sont réservées.
-# Article Title
+#ArticleTitle
 Art. 2a Définition de la pièce constitutive suisse
-# Article Text
+#ArticleText
 Est considérée comme pièce constitutive suisse la pièce:
 a.   qui a été contrôlée par le fabricant en Suisse, et
 b.   dont 60 % au minimum du coût de revient sont générés en Suisse.
-# Article Title
+#ArticleTitle
 Art. 2b Définition de l’assemblage en Suisse
-# Article Text
+#ArticleText
 Un mouvement est considéré comme assemblé en Suisse au sens de l’art. 2, al. 1, let. abis, lorsque toutes les pièces constitutives sont assemblées en Suisse.
 Seuls les sous-assemblages des pièces constitutives suivantes peuvent être effectués à l’étranger:
 a.   pour les mouvements exclusivement mécaniques: les mobiles de rouage;
@@ -336,9 +336,9 @@ b.   pour les mouvements non exclusivement mécaniques:
 4.   l’organe réglant,
 5.   les mobiles de rouage,
 6.   le moteur ou les moteurs, rotors et bobines compris.
-# Article Title
+#ArticleTitle
 Art. 2c Coût de revient déterminant
-# Article Text
+#ArticleText
 Ne sont pas pris en considération dans le calcul du coût de revient:
 a.   le coût des produits naturels qui ne peuvent pas être produits en Suisse en raison des conditions naturelles;
 b.   le coût des matières n’étant pas disponibles en quantité suffisante en Suisse pour des raisons objectives à hauteur de leur indisponibilité;
@@ -346,14 +346,14 @@ c.   les frais d’emballage;
 d.   les frais de transport;
 e.   les frais de commercialisation, tels que les frais de promotion et les coûts du service après-vente;
 f.   le coût de la pile.
-# Article Title
+#ArticleTitle
 Art. 2d Matières disponibles en quantité insuffisante en Suisse
-# Article Text
+#ArticleText
 Si la branche horlogère rend publiques des informations relatives à des matières disponibles en quantité insuffisante conformément à l’art. 52k de l’ordonnance du 23 décembre 1992 sur la protection des marques, elle s’assure que ces informations sont objectivement fondées.
 En cas de désaccords au sein de la branche, elle fait appel à des tiers indépendants.
-# Article Title
+#ArticleTitle
 Art. 3 Condition d’utilisation du nom «Suisse» et de la croix suisse
-# Article Text
+#ArticleText
 1 Ne peuvent être utilisés que pour des montres suisses et des mouvements suisses:
 a.   le nom «Suisse»;
 b.   les indications telles que «suisse», «produit suisse», «fabriqué en Suisse», «qualité suisse», ainsi que les autres dénominations qui contiennent le nom «Suisse» ou des indications susceptibles d’être confondues avec ce nom, et
@@ -366,9 +366,9 @@ Le mot «mouvement» devra figurer en toutes lettres, identiques dans leurs type
 5 L’utilisation comprend, outre l’apposition de ces indications sur les montres ou leur emballage:
 a. La vente, la mise en vente ou en circulation de montres munies d’une telle indication;
 b. L’apposition sur des enseignes, annonces, prospectus, factures, lettres ou papiers de commerce.
-# Article Title
+#ArticleTitle
 Art. 4 Apposition de l’indication de provenance a. Sur les boîtes de montres
-# Article Text
+#ArticleText
 1 Est considérée comme suisse la boîte de montre:
 a.   qui a subi au moins une opération essentielle de fabrication (à savoir l’étampage, l’usinage ou le polissage) en Suisse;
 b.   qui a été montée en Suisse;
@@ -378,85 +378,85 @@ d.   dont 60 % au minimum du coût de revient sont générés en Suisse.
 3 La mention «boîte suisse», ou sa traduction, peut être apposée sur des boîtes suisses destinées à habiller des montres qui ne sont pas des montres suisses au sens de l’art. 1a.
 Lorsque la mention est appliquée à l’extérieur de la boîte, l’indication de provenance de la montre ou du mouvement doit figurer de manière visible sur la montre.
 4 et 5 ...
-# Article Title
+#ArticleTitle
 Art. 5 b. Sur les cadrans des montres
-# Article Text
+#ArticleText
 1 Les dénominations figurant à l’art. 3, al. 1 et 4, ne peuvent être apposées que sur des cadrans destinés à des montres répondant aux critères définis à l’art. 1a.
 2 La mention «cadran suisse», ou sa traduction, peut être apposée au dos des cadrans suisses destinés à habiller des montres qui ne sont pas des montres suisses au sens de l’art. 1a.
-# Article Title
+#ArticleTitle
 Art. 6 c. Sur d’autres pièces détachées de la montre
-# Article Text
+#ArticleText
 1 Les dénominations figurant à l’art. 3, al. 1 et 4, ne peuvent être apposées que sur des pièces détachées destinées à des montres répondant aux critères définis à l’art. 1a.
 2 Les ébauches suisses exportées ainsi que les mouvements fabriqués à partir de telles ébauches peuvent porter la mention «Swiss parts».
-# Article Title
+#ArticleTitle
 Art. 7 Echantillons et collections d’échantillons
-# Article Text
+#ArticleText
 Nonobstant l’art. 3, al. 2, et les art. 4 à 6, les boîtes, cadrans, mouvements et autres pièces détachées peuvent porter des indications de provenance suisses lorsqu’ils:
 a. Sont exportés séparément sous forme d’échantillons ou de collections d’échantillons;
 b. Sont fabriqués en Suisse et
 c. Ne sont pas destinés à la vente.
-# Article Title
+#ArticleTitle
 Art. 8 Dispositions pénales
-# Article Text
+#ArticleText
 Les contraventions aux prescriptions de la présente ordonnance tombent sous le coup des dispositions pénales de la LPM.
-# Article Title
+#ArticleTitle
 Art. 9 Entrée en vigueur
-# Article Text
+#ArticleText
 La présente ordonnance entre en vigueur le 1er janvier 1972.
-# Article Title
+#ArticleTitle
 Disposition finale de la modification du 27 mai 1992
-# Article Text
+#ArticleText
 Les entreprises qui, à la date de l’entrée en vigueur de la présente modification, ont déjà utilisé licitement et durablement l’une des dénominations protégées au sens de l’art. 3, al. 1 et 4, sont en droit d’en poursuivre l’utilisation cinq ans après l’entrée en vigueur de la présente modification, même si l’emboîtage et le contrôle final par le fabricant ont lieu à l’étranger.
-# Article Title
+#ArticleTitle
 Disposition transitoire de la modification du 17 juin 2016
-# Article Text
+#ArticleText
 1 Les montres et les mouvements fabriqués entre le 1er janvier 2017 et le 31 décembre 2018 qui ne remplissent pas les conditions énoncées aux art. 1a, let. a, et 2, al. 1, let. a, peuvent être mis pour la première fois sur le marché munis d’une indication de provenance conforme au droit en vigueur au moment de la fabrication seulement jusqu’au 31 décembre 2020.
 2 Peuvent être exclus du calcul du coût de revient d’une montre les coûts des boîtes et des verres:
 a.   qu’un fabricant avait en stock avant le 31 décembre 2016, et
 b.   qui sont incorporés dans une montre jusqu’au 31 décembre 2018.
-# Law 048
-# Title
+#Law048
+#Title
 Ordonnance du DETEC sur l’exemption du droit des marchés publics
-# Preamble
+#Preamble
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication,
 vu l’art. 2b de l’ordonnance du 11 décembre 1995 sur les marchés publics,
 arrête:
-# Body
-# Article Title
+#Body
+#ArticleTitle
 Art. 1 Champ d’application
-# Article Text
+#ArticleText
 La présente ordonnance s’applique à tous les adjudicateurs soumis au droit fédéral ou cantonal des marchés publics, en vertu de l’Accord bilatéral du 21 juin 1999 entre la Communauté européenne et la Confédération suisse sur certains aspects relatifs aux marchés publics ou en vertu de la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (AELE).
-# Article Title
+#ArticleTitle
 Art. 2 Demande
-# Article Text
+#ArticleText
 1 Les adjudicateurs et la Commission de la concurrence (Comco) peuvent présenter une demande d’exemption au droit des marchés publics.
 2 Les adjudicateurs soumis au droit fédéral remettent leur demande au Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC).
 Les adjudicateurs soumis au droit cantonal ou intercantonal la remettent à l’autorité intercantonale.
 Cette dernière transmet la demande au DETEC, éventuellement assortie d’un préavis.
-# Article Title
+#ArticleTitle
 Art. 3 Consultation
-# Article Text
+#ArticleText
 1 Le DETEC transmet pour avis les demandes à la Comco, aux milieux économiques concernés et, si la demande émane d’un adjudicateur soumis au droit fédéral, à l’autorité intercantonale.
 2 L’expertise de la Comco indique si les adjudicateurs sont en situation de concurrence dans un secteur ou un secteur partiel.
-# Article Title
+#ArticleTitle
 Art. 4 Exemption
-# Article Text
+#ArticleText
 Si les conditions sont remplies, le DETEC libère le secteur ou le secteur partiel de l’assujettissement.
 Les secteurs et les secteurs partiels libérés sont énumérés dans l’annexe de la présente ordonnance.
-# Article Title
+#ArticleTitle
 Art. 5 Décisions de constatationxs
-# Article Text
+#ArticleText
 1 Si le DETEC considère que les conditions de l’exemption d’un secteur ou d’un secteur partiel ne sont pas remplies, le requérant peut lui demander de rendre une décision de constatation; cette décision peut faire l’objet d’un recours auprès du tribunal administratif fédéral.
 2 Si un secteur ou un secteur partiel est libéré de l’assujettissement au droit des marchés publics, tout soumissionnaire potentiel peut demander au DETEC de rendre une décision de constatation; cette décision peut faire l’objet d’un recours auprès du tribunal administratif fédéral.
-# Article Title
+#ArticleTitle
 Art. 6 Entrée en vigueur
-# Article Text
+#ArticleText
 La présente ordonnance entre en vigueur le 1er septembre 2002.
-# Annex
-# Annex Title
+#Annex
+#AnnexTitle
 Annexe
 Secteurs et secteurs partiels exemptés
-# Annex Text
+#AnnexText
 1. Télécommunications sur le territoire de la Confédération suisse:
 a. Secteur partiel de la communication sur réseau fixe
 b. Secteur partiel de la communication mobile
@@ -464,26 +464,26 @@ c. Secteur partiel de l’accès Internet
 d. Secteur partiel de la communication de données
 2. Trafic ferroviaire sur le territoire de la Confédération suisse:
 a. Secteur partiel du trafic de marchandises sur voie à écartement normal
-# Law 114
-# Title
+#Law114
+#Title
 Arrêté fédéral
 portant approbation de l’accord bilatéral entre la Suisse et les Communautés européennes sur l’imposition des fonctionnaires européens retraités résidant en Suisse
-# Title Info
+#TitleInfo
 du 17 décembre 2004
-# Preamble
+#Preamble
 L’Assemblée fédérale de la Confédération suisse,
 vu les art. 54, al. 1, et 166, al. 2, de la Constitution,
 vu le message du Conseil fédéral du 1er octobre 2004,
 arrête:
-# Body
-# Article Title
+#Body
+#ArticleTitle
 Art. 1
-# Article Text
+#ArticleText
 1 L’Accord du 26 octobre 2004 entre le Conseil fédéral suisse et la Commission des Communautés européennes en vue d’éviter la double imposition des fonctionnaires retraités des institutions et agences des Communautés européennes résidant en Suisse est approuvé.
 2 Le Conseil fédéral est autorisé à le ratifier.
-# Article Title
+#ArticleTitle
 Art. 2
-# Article Text
+#ArticleText
 Le présent arrêté est sujet au référendum prévu par l’art. 141, al. 1, let. d, ch. 3, Cst. pour les traités internationaux qui contiennent des dispositions importantes fixant des règles de droit ou dont la mise en œuvre exige l’adoption de lois fédérales.
 Conseil des Etats, 17 décembre 2004
 Le président: Bruno Frick
