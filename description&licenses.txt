@@ -11,7 +11,7 @@ https://www.ortolang.fr/market/corpora/stosic/ [Retrieved March 8th, 2021]
 Licence Creative Commons - Domaine public ; Pas de droit d'auteur.
 
 :Review corpora:
-Randoml Amazon product reviews.
+Random Amazon product reviews.
 Extracted from the French dataset of the Multilingual Amazon Reviews Corpus (Keung et al., 2020).
 [Corpus and Link NOT AVAILABLE]
 The Reviews Corpus is an Amazon Service subject to the Amazon.com Conditions of Use.
