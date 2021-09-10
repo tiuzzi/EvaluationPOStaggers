@@ -13,14 +13,14 @@ Licence Creative Commons - Domaine public ; Pas de droit d'auteur.
 :Review corpora:
 Randoml Amazon product reviews.
 Extracted from the French dataset of the Multilingual Amazon Reviews Corpus (Keung et al., 2020).
-[corpus and link not available]
+[Corpus and Link NOT AVAILABLE]
 The Reviews Corpus is an Amazon Service subject to the Amazon.com Conditions of Use.
 
 :Law corpora:
 Small collection of texts issued from the French version of CHEU-lex, a parallel and comparable trilingual corpus of Swiss and EU Legislation. 
 The full corpus is accessible through the Transius website.
 https://transius.unige.ch/en/research/cheu-lex/ [Retrieved July 30th, 2021]
-Licence not available
+[Licence NOT AVAILABLE]
 
 REFERENCES
 Analyse et traitement informatique de la langue française - UMR 7118 (ATILF) (2020). TCOF : Traitement de Corpus Oraux en Français [Corpus]. ORTOLANG (Open Resources and TOols for LANGuage) - www.ortolang.fr, v2.1, https://hdl.handle.net/11403/tcof/v2.1.
